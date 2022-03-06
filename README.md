@@ -1,22 +1,16 @@
-<style>
-  .center{
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-  }
-</style>
 
-<a href="#"><img height="auto" class="center" src="Programmer-amico.png" height="100px"/></a>
+<a href="#"><img width="30%" height="auto" class="center" src="Programmer-amico.png" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milindi</h1>
 <h3 align="center">I'm a IT undergraduate, Sri Lanka</h3>
+
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently studing at **[University of Moratuwa](https://uom.lk/itfac)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
+
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/MilindiSenevirathne?tab=repositories)**
 
@@ -63,6 +57,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+
 <br/>
 <br/>
 
@@ -72,7 +67,6 @@
 <br/>
 
 ## Connect with me:
-
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/milindi-senevirathne/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -81,7 +75,6 @@
 </p>
 
 ## ❤ Views and Followers
-
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MilindiSenevirathne">
 </a>
