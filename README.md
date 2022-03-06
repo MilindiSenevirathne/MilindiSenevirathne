@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/MilindiSenevirathne)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/MilindiSenevirathne?tab=repositories)**
 
 - 📫 How to reach me **milindianu@gmail.com**
 
