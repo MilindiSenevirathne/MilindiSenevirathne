@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="Programmer-amico.png" height="100px"/></a>
+<a href="#"><img width="30%" height="auto" src="Programmer-amico.png" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milindi</h1>
 <h3 align="center">I'm a IT undergraduate, Sri Lanka</h3>
