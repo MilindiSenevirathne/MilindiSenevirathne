@@ -1,5 +1,5 @@
 
-<a href="#"><img width="30%" height="auto" class="center" src="Programmer-amico.png" height="100px"/></a>
+<a href="#"><img width="300px" height="auto" align-item="center" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milindi</h1>
 <h3 align="center">I'm a IT undergraduate, Sri Lanka</h3>
