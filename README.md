@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studing at **[University of Moratuwa](https://uom.lk/itfac)**
+- 🔭 I’m currently studying at **[University of Moratuwa](https://uom.lk/itfac)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
